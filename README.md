@@ -26,6 +26,6 @@ Desarrolla planes de prevención y concienciación en ciberseguridad, establecie
 - Cultura de la seguridad de la información.
 - Evaluar el aprendizaje obtenido.
 
-## Auditorias
+## Auditorías
 
 <p align="justify">Las auditorías internas de cumplimiento <strong>deben ser realizadas por personal cualificado para mejorar la eficacia y seguridad de una empresa.</strong> A veces, serán necesarios servicios de auditoría especializada o forense para investigar incidentes graves de seguridad como brechas de datos o ataques de ransomware.</p>
